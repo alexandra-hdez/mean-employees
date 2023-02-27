@@ -13,13 +13,13 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:4000/api/employees/
+GET http://localhost:4000/api/employees/63e322b47ec4ff255bfc5153
 
 ###
-DELETE http://localhost:4000/api/employee/
+DELETE http://localhost:4000/api/employee/63e322d27ec4ff255bfc5154
 
 ###
-PUT http:localhost:4000/api/employee/
+PUT http:localhost:4000/api/employee/63e322b47ec4ff255bfc5153
 Content-Type: application/json
 
 {
